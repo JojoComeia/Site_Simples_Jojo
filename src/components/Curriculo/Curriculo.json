@@ -1,0 +1,49 @@
+{
+  "resumo": "Certamente este é um curriculo muito completo de um profissional muito experiente.",
+
+  "experienciaAcademica": [
+    {
+      "titulo": "Computadores.com",
+      "descricaocao": "Computadores, é isso.",
+      "dataInicio": "2020",
+      "dataFim": " 2020"
+    },
+
+    {
+      "titulo": "Ciencias de computacao",
+      "descricaocao": "Computadores cientistas.",
+      "dataInicio": "2021",
+      "dataFim": " 2021"
+    },
+
+    {
+      "titulo": "01000001 01100010 01100001 01100011 01100001 01110100 01100101 ",
+      "descricaocao": "É isso mesmo.",
+      "dataInicio": "2022",
+      "dataFim": " 2022"
+    },
+
+    {
+      "titulo": "Decripitador de codigos binarios na Nicrosoft",
+      "descricaocao": "Eu leio codigos binarios.",
+      "dataInicio": "2023",
+      "dataFim": " 2023"
+    },
+
+    {
+      "titulo": " Ciencias de computacao",
+      "descricaocao": "loren ipsum",
+      "dataInicio": "2020",
+      "dataFim": " 2020"
+    }
+  ],
+
+  "experienciaProfissional": [
+    {
+      "titulo": "Desenvolvedor de Software",
+      "descricaocao": "Desenvolvo softwares no Comeia Academy.",
+      "dataInicio": "2023",
+      "dataFim": " 2089"
+    }
+  ]
+}
